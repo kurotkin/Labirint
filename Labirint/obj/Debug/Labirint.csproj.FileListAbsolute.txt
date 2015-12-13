@@ -1,0 +1,16 @@
+\\mac\home\documents\visual studio 2015\Projects\Labirint\Labirint\bin\Debug\Labirint.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Labirint\Labirint\bin\Debug\Labirint.exe
+\\mac\home\documents\visual studio 2015\Projects\Labirint\Labirint\bin\Debug\Labirint.pdb
+\\mac\home\documents\visual studio 2015\Projects\Labirint\Labirint\obj\Debug\Labirint.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Labirint\Labirint\obj\Debug\Labirint.FormMenu.resources
+\\mac\home\documents\visual studio 2015\Projects\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\Labirint\Labirint\obj\Debug\Labirint.exe
+\\mac\home\documents\visual studio 2015\Projects\Labirint\Labirint\obj\Debug\Labirint.pdb
+\\mac\home\documents\visual studio 2015\Projects\Labirint\Labirint\bin\Debug\Toolbox.Extensions.dll
+\\mac\home\documents\visual studio 2015\Projects\Labirint\Labirint\bin\Debug\Toolbox.Logger.dll
+\\mac\home\documents\visual studio 2015\Projects\Labirint\Labirint\bin\Debug\Toolbox.Extensions.pdb
+\\mac\home\documents\visual studio 2015\Projects\Labirint\Labirint\bin\Debug\Toolbox.Extensions.xml
+\\mac\home\documents\visual studio 2015\Projects\Labirint\Labirint\bin\Debug\Toolbox.Logger.pdb
+\\mac\home\documents\visual studio 2015\Projects\Labirint\Labirint\bin\Debug\Toolbox.Logger.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Labirint\Labirint\obj\Debug\Labirint.L1.resources
